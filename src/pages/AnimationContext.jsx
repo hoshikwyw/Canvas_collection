@@ -3,7 +3,7 @@ import React from 'react'
 const AnimationContext = () => {
   return (
     <div>
-      animation 
+      animation
     </div>
   )
 }
